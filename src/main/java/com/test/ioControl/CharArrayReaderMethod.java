@@ -1,4 +1,4 @@
-package com.test;
+package com.test.ioControl;
 /*
 說明:讀耶字元陣列類別(CharArrayReader)使用方法
 */

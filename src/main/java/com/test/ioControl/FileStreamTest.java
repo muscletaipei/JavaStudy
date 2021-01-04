@@ -1,4 +1,4 @@
-package com.test;
+package com.test.ioControl;
 
 import javax.imageio.IIOException;
 import java.io.*;
